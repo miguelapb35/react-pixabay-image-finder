@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-pixabay-image-finder/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/react-pixabay-image-finder/static/js/main.2d9122f2.chunk.js",
+    "main.js.map": "/react-pixabay-image-finder/static/js/main.2d9122f2.chunk.js.map",
+    "runtime-main.js": "/react-pixabay-image-finder/static/js/runtime-main.a7071fb4.js",
+    "runtime-main.js.map": "/react-pixabay-image-finder/static/js/runtime-main.a7071fb4.js.map",
+    "static/js/2.0f358868.chunk.js": "/react-pixabay-image-finder/static/js/2.0f358868.chunk.js",
+    "static/js/2.0f358868.chunk.js.map": "/react-pixabay-image-finder/static/js/2.0f358868.chunk.js.map",
+    "index.html": "/react-pixabay-image-finder/index.html",
+    "precache-manifest.41e878b5f5032e668a537053126a9f6d.js": "/react-pixabay-image-finder/precache-manifest.41e878b5f5032e668a537053126a9f6d.js",
+    "service-worker.js": "/react-pixabay-image-finder/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/react-pixabay-image-finder/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.0f358868.chunk.js.LICENSE.txt": "/react-pixabay-image-finder/static/js/2.0f358868.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7071fb4.js",
+    "static/js/2.0f358868.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.2d9122f2.chunk.js"
+  ]
+}
